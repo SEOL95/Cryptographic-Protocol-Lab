@@ -20,11 +20,9 @@ void q_sort(int *arr, int l, int r);
 int partition(int *arr, int l, int r);
 void swap(int *p, int *q);
 
-
 int *cnt_img = NULL;
 int ideal_cnt;
 double avg_img;
-
 
 int main()
 {
